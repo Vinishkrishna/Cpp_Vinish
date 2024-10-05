@@ -1,0 +1,10 @@
+Market Capitalization > 500 AND
+Market Capitalization < 15000 AND
+ Price to Earning < Industry PE AND
+ Price to Earning < Historical PE 5Years AND
+ Profit growth 5Years > 15 AND
+ PEG Ratio < 1 AND
+ Dividend adjusted PEG Ratio < 0.5 AND
+ Dividend adjusted PEG Ratio > 0 AND
+ Debt /Total Assets < 0.25 AND
+ (DII holding + FII holding) < 20
